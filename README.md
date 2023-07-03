@@ -1,7 +1,7 @@
 
-# Unisex Salon
+# BarberShop
 
-Welcome to the Unisex Salon project!
+Welcome to the Barber Salon project!
 
 ## Description
 The Unisex Salon project is a website for our salon that offers a variety of services for both men and women. Our salon provides services such as haircuts, beard trims, hair styling, and more. We aim to create a comfortable and stylish environment for our clients.
